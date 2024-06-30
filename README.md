@@ -33,9 +33,6 @@ Le backend est développé avec Node.js et Express.js. Il inclut des API RESTful
 
 Lien GitHub du backend : [API Ecommerce NodeJS](https://github.com/kodjoSoule/api-products-fashion-management)
 
-### Documentation API
-- **/api/fashionProducts (GET)** : Récupère tous les produits de mode. La réponse contient une liste de produits avec leurs titres, catégories, marques et prix.
-
 ## Base de données
 La base de données utilisée est MongoDB, permettant une gestion efficace et évolutive des données produits.
 
@@ -45,4 +42,4 @@ Pour installer et exécuter ce projet localement, suivez ces étapes :
 ### Frontend
 1. Clonez le repository frontend :
    ```bash
-   git clone https://github.com/kodjoSoule/frontend-product-management.git
+Lien GitHub du backend : [API Ecommerce NodeJS]([https://github.com/kodjoSoule/api-products-fashion-management](https://github.com/kodjoSoule/frontend-product-management.git)
