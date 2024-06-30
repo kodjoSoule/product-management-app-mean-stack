@@ -15,31 +15,10 @@ Le frontend est développé avec Angular 17 et comprend plusieurs composants pou
 
 Lien GitHub du frontend : [Frontend Product Management](https://github.com/kodjoSoule/frontend-product-management)
 
-### Composants principaux
-- **HomeComponent** : Affichage de la page d'accueil.
-- **NotFoundComponent** : Affichage de la page pour les routes non trouvées.
-- **FashionProductListComponent** : Affichage de la liste des produits de mode.
-- **FashionProductItemComponent** : Affichage d'un produit individuel.
-- **FashionProductDetailsComponent** : Affichage des détails d'un produit.
-- **FashionProductsOnSaleComponent** : Affichage des produits en promotion.
-- **CategoriesComponent** : Affichage des catégories de produits.
-- **ProductsByCategoryComponent** : Affichage des produits par catégorie.
-- **StatisticComponent** : Affichage des statistiques de vente.
-- **AboutComponent** : Affichage de la page "À propos".
-- **AdminListProductsComponent** : Gestion des produits pour les administrateurs.
-
 ## Backend
 Le backend est développé avec Node.js et Express.js. Il inclut des API RESTful pour la gestion des produits et est documenté avec Swagger.
 
-Lien GitHub du backend : [API Ecommerce NodeJS](https://github.com/kodjoSoule/api-products-fashion-management)
+Lien GitHub du backend : [API Products Management](https://github.com/kodjoSoule/api-products-fashion-management)
 
 ## Base de données
 La base de données utilisée est MongoDB, permettant une gestion efficace et évolutive des données produits.
-
-## Installation
-Pour installer et exécuter ce projet localement, suivez ces étapes :
-
-### Frontend
-1. Clonez le repository frontend :
-   ```bash
-Lien GitHub du backend : [API Ecommerce NodeJS]([https://github.com/kodjoSoule/api-products-fashion-management](https://github.com/kodjoSoule/frontend-product-management.git)
